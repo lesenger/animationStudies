@@ -1,10 +1,7 @@
 # Animation Studies
 * DES132 - 3D Digital Literacy 2017/2018
 * Niko Leskinen
-> Dropbox link to Maya, video and python files
->
-> https://www.dropbox.com/sh/hdyc5fasoi37w50/AAAwjb0E_7ymk1aT9Z5acwIda?dl=0
->
+> [Dropbox link to Maya, video and python files](https://www.dropbox.com/sh/hdyc5fasoi37w50/AAAwjb0E_7ymk1aT9Z5acwIda?dl=0)
 
 ## Research
 For the research, I started reading The Animator's Survival Kit
@@ -87,7 +84,7 @@ move forward enough, and it looked little like wounded walk.
 Then I changed rest of the walk cycle according this wound.
 
 
-![Wounded Walk](https://github.com/lesenger/animationStudies/raw/master/wounded.gif
+![Wounded Walk](https://github.com/lesenger/animationStudies/raw/master/wounded.gif)
 
 Python scripts I used are below.
 
