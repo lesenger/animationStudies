@@ -39,7 +39,7 @@ I am not complete satisfied about the result,
 but at least I learned something about the rhythm of the cycle especially when
 I tried to break the walking cycle by jump.
 
-![The Double Bounce](./bounce.png)
+![The Double Bounce](https://github.com/lesenger/animationStudies/raw/master/bounce.png)
 
 
 ![TThe Happy Walk](https://github.com/lesenger/animationStudies/raw/master/happy.gif)
@@ -51,10 +51,7 @@ I used animated music video of the song Masterplan as a reference
 [Oasis - The Masterplan](https://youtu.be/dPPi2D6GK7A?t=50s)
 
 
-![Masterplan](./masterplan.gif)
-
-
-![Liam walk](./liam.gif)
+![Liam walk](https://github.com/lesenger/animationStudies/raw/master/liam.gif)
 
 The rest two animations I made using python.
 I wrote two scripts: The first one creates table/csv-file with object
@@ -71,13 +68,13 @@ Program basically works in following way:
 0. Give starting positions for walker's attributes.
 1. Start repeating four phase as long as you want
 
-![The Happy Walk](./walkCycleSketch.jpg)
+![Walking cycle](https://github.com/lesenger/animationStudies/raw/master/walkCycleSketch.jpg)
 
 First I used program to create relatively normal, maybe
 little heavy walk.
 
 
-![Normal Walk](./normal.gif)
+![Normal Walk](https://github.com/lesenger/animationStudies/raw/master/normal.gif)
 
 
 The second walk became partly by accident.
@@ -86,7 +83,7 @@ move forward enough, and it looked little like wounded walk.
 Then I changed rest of the walk cycle according this wound.
 
 
-![Wounded Walk](./wounded.gif)
+![Wounded Walk](https://github.com/lesenger/animationStudies/raw/master/wounded.gif
 
 Python scripts I used are below.
 
