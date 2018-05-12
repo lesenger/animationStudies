@@ -42,7 +42,7 @@ I tried to break the walking cycle by jump.
 ![The Double Bounce](./bounce.png)
 
 
-![TThe Happy Walk](./happy.gif)
+![TThe Happy Walk](https://github.com/lesenger/animationStudies/raw/master/happy.gif)
 
 Next I tried to animate this cocky and arrogant walking style.
 Inspiration was Oasis lead singer Liam Gallagher's walking style.
@@ -65,7 +65,7 @@ who writes books about programming and computers for children.
 In the book main character Ruby has a recipe for dance
 so I wanted to do similar thing with maya and walking.
 
-[The poetry of programming | Linda Liukas | TEDxCERN](https://youtu.be/-jRREn6ifEQ?t=4m36s)
+[The poetry of programming Linda Liukas TEDxCERN](https://youtu.be/-jRREn6ifEQ?t=4m36s)
 
 Program basically works in following way:
 0. Give starting positions for walker's attributes.
