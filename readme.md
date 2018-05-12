@@ -1,6 +1,10 @@
 # Animation Studies
 * DES132 - 3D Digital Literacy 2017/2018
 * Niko Leskinen
+> Dropbox link to Maya, video and python files
+>
+> https://www.dropbox.com/sh/hdyc5fasoi37w50/AAAwjb0E_7ymk1aT9Z5acwIda?dl=0
+>
 
 ## Research
 For the research, I started reading The Animator's Survival Kit
